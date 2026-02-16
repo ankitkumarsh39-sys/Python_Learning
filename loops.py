@@ -15,3 +15,15 @@ x =1
 while x <= 10:
     print("NUMBER", x)
     x += 1
+print("loop is over")
+
+# print number from 1 to 100.
+y=1
+while y <=100:
+        print("num", y)
+        y +=1
+# print number from 100 to 1        
+a = 100
+while a >= 1:
+    print("num", a)
+    a -= 1
